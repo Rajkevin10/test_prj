@@ -1,2 +1,8 @@
 First line
+<<<<<<< HEAD
 Second line
+||||||| e5fec8b
+=======
+No need of second line
+Third line 
+>>>>>>> submaster
